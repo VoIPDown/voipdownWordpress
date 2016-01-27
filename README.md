@@ -9,3 +9,7 @@ Steps to install :
 3. Select the .zip file (voip-down-maroc.zip obviously :p)
 4. Install it.
 5. Enjoy !
+
+# Available on the WP repo :
+https://wordpress.org/plugins/badge-for-voipdown/
+(Isn't that cool ?) 
