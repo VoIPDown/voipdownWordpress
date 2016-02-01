@@ -96,7 +96,7 @@ class Voip_Down_Maroc_Public {
 		 * class.
 		 */
 
-		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/voip-down-maroc-public.js', array( 'jquery' ), $this->version, false );
+		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/voip-down-maroc-public.js', array( 'jquery' ), $this->version, true );
 
 	}
 
