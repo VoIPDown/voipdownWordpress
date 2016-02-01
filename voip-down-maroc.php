@@ -10,7 +10,7 @@
  * Plugin Name:       VoIPDown Badge for Wordpress
  * Plugin URI:        http://www.voipdown.com
  * Description:       VoIPDown est une opération qui a pour but de rassembler le plus grand nombre de sites marocains pour protester contre le blocage de la VoIP, et ceci en intégrant un compteur en bas de leurs pages.
- * Version:           0.1
+ * Version:           0.2
  * Author:            Imad Archid
  * Author URI:        http://www.fb.com/imadarchid
  * Text Domain:       voip-down-maroc
